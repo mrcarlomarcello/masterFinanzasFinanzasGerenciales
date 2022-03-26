@@ -1,0 +1,65 @@
+commit 1a2f987050d357c2ce26bc19e91de553160ccd6b
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Sat Mar 26 17:02:54 2022 -0600
+
+    Borrando un temp file
+
+commit fe1aad5b5a729d21137590bd5814d0638cf37f95
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Sat Mar 26 17:02:21 2022 -0600
+
+    armando portafolio
+
+commit e88381d5202744747c02f7b545166014e2a3d07b
+Author: shello <marcello_menjivar@unitec.edu>
+Date:   Sat Mar 26 16:49:24 2022 -0600
+
+    Agregando reporte Semana 2
+
+commit a600414641e6bd8d15be29caa546adbcf3809a95
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Sat Mar 26 16:10:18 2022 -0600
+
+    Presentando la clase final
+
+commit d92ae68f718d1d1a1dcfe081de1c2f524806e39c
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Sat Mar 26 00:56:59 2022 -0600
+
+    puse la version de mi tarea de Semana 3 de Google Drive
+
+commit efc9c20bc46edcbc9b423019d0b2b9081a871a86
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Fri Mar 25 23:40:15 2022 -0600
+
+    agregando semana 3 y semana4: ejercicios en excel
+
+commit 54536893ea907996ed3c7488167e9c7134492419
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Fri Mar 25 23:07:58 2022 -0600
+
+    Agregando presentaciones de Semana 3 & 4
+
+commit 3a0f8a466ccdcd088516ca9d66b162b2b3b0f437
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Fri Mar 25 22:50:07 2022 -0600
+
+    Agregando semana 4
+
+commit 19a6eb38ee93bfc482e9dcc606b126c539c674df
+Author: Carlo Marcello Menjivar Montes de Oca <marcello_menjivar@unitec.edu>
+Date:   Fri Mar 25 21:40:36 2022 -0600
+
+    Agregando lo de Windows
+
+commit f554c7a0c473ba008dd687f4ecfb6ba923eab230
+Author: shello <marcello_menjivar@unitec.edu>
+Date:   Fri Mar 25 21:31:03 2022 -0600
+
+    Agregando folders
+
+commit 454b45f161836a608fb003d07c8017a0af76fee0
+Author: mrcarlomarcello <98906602+mrcarlomarcello@users.noreply.github.com>
+Date:   Fri Mar 25 21:20:42 2022 -0600
+
+    Initial commit
